@@ -47,6 +47,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/minsubyun1">
+        <img src="https://avatars.githubusercontent.com/u/75060858?v=4" width="100px;" alt="윤민섭"/>
+        <br />
+        <sub><b>윤민섭</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
