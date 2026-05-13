@@ -65,6 +65,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/floodnut">
+        <img src="https://avatars.githubusercontent.com/u/15941204?v=4" width="100px;" alt="윤민섭"/>
+        <br />
+        <sub><b>정금종</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
