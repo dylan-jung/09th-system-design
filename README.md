@@ -56,6 +56,15 @@
       <br />
       <sub>스터디원</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/MinhoJJang">
+        <img src="https://avatars.githubusercontent.com/u/84257033?v=4" width="100px;" alt="장민호"/>
+        <br />
+        <sub><b>장민호</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
   </tr>
 </table>
 
