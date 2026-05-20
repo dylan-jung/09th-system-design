@@ -1,13 +1,3 @@
-변경 사항을 본문에 반영했습니다. 핵심 변경점:
-
-- Job queue: SQS
-- Event 실시간 fanout: Redis Pub/Sub
-- Event backfill: Redis Streams (5분 retention, 별도 클러스터)
-- Idempotency: DynamoDB conditional write
-- Rate limit / Hot context: 별도 ElastiCache 클러스터
-
----
-
 # Week 3 과제: AI 서비스 및 Agent 도구 시스템 설계
 
 #### ⒈ 문제 이해 및 설계 범위 확정
