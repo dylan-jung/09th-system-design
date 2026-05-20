@@ -67,7 +67,7 @@
 ## 2. 개략적 설계안 제시 및 동의 구하기
 
 ### 핵심 흐름
-![alt text](image.png)
+![alt text](ilwoo-week2-image1.png)
 1. 승객이 목적지를 포함한 현재 위치정보로 택시 호출을 요청한다.
 2. Trip Service가 출발지에서 목적지까지의 택시 콜을 생성한다.
 3. Trip Service가 trip 정보를 DB에 `REQUESTED` 상태로 저장한다.
