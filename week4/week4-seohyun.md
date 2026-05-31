@@ -242,7 +242,6 @@ BatchPipeline -->|aggregation| PopularCandidate
 ## 저장소 선택
 
 | 저장소 | 역할 | 선택 이유 |
-
 |---|---|---|
 | Redis | cache / online feature store | sub-ms latency |
 | Kafka | event streaming | high throughput, ordering 보장 |
@@ -261,6 +260,7 @@ BatchPipeline -->|aggregation| PopularCandidate
 | L1 | in-memory (애플리케이션 로컬) | hot key 응답 |
 | L2 | Redis distributed cache | 추천 결과 / feature 공유 |
 | L3 | Fallback Cache | 추론 실패 시 정적 응답 |
+
 | 캐시 | Key | TTL | 갱신 방식 |
 |---|---|---|---|
 | 추천 결과 | `rec:{user_key}:{page_version}` | 60s | lazy (miss 시 채움) |
