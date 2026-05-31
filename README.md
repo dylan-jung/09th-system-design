@@ -75,6 +75,15 @@
       <sub>스터디원</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/dldbstj22">
+        <img src="https://avatars.githubusercontent.com/dldbstj22" width="100px;" alt="이윤서"/>
+        <br />
+        <sub><b>이윤서</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/floodnut">
         <img src="https://avatars.githubusercontent.com/u/15941204?v=4" width="100px;" alt="윤민섭"/>
         <br />
